@@ -53,7 +53,7 @@ To run the Rocket Launch Simulator, you need the following:
 Python (3.x recommended)
 Installation
 Clone the repository to your local machine:
-git clone https://github.com/yourusername/rocket-launch-simulator.git
+(https://github.com/Rakshith-rao/Rocket-Launch-Simulator)
 Navigate to the project directory:
 cd rocket-launch-simulator
 Usage
